@@ -1,0 +1,3 @@
+[submodule "zkevm-prover"]
+	path = zkevm-prover
+	url = https://github.com/dark64/zkevm-prover.git
